@@ -1,6 +1,6 @@
 # DFFNN Pruning Strategies for Time-Series Forecasting
 
-This repository contains a specialized research framework for **Hidden Layer Pruning** methodologies applied to Energy Consumption Forecasting. The core objective is to reduce the computational footprint of Deep Learning models while preserving their predictive power through innovative weight reconfiguration algorithms.
+This repository contains a specialized research framework for **Hidden Layer Pruning** methodologies. The core objective is to reduce the computational footprint of Deep Learning models while preserving their predictive power through innovative weight reconfiguration algorithms.
 
 ---
 
